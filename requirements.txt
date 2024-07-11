@@ -1,0 +1,4 @@
+transformers 
+streamlit
+language-tool-python
+torch
