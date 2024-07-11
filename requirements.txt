@@ -3,3 +3,5 @@ streamlit
 language-tool-python
 torch
 streamlit-option-menu
+--upgrade transformers
+tensorflow
